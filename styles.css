@@ -1,0 +1,180 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    background-color: #080606f3;
+    position: absolute;
+}
+
+.demo {
+    color: rgba(42, 68, 42, 0.37)
+}
+
+.content-wrapper {
+    width: 100%;
+    margin: 1% 1% 1% 1%;
+    margin-bottom: -10%;
+}
+
+.about-me {
+    width: 50%;
+    margin: -57% 60% 80% 43%;
+    float: left;
+    display: flexbox;
+    padding: auto;
+}
+
+.about-me h4 {
+    font-family: cursive;
+}
+
+.about-me h1 {
+    color: white;
+}
+
+.about-me h4 {
+    color: rgba(52, 167, 106, 0.664);
+}
+
+.about-me p {
+    color: rgba(241, 239, 239, 0.527);
+}
+
+.my-service {
+    margin: 0;
+    padding: 0;
+}
+
+.deve-class {
+    width: 15%;
+    margin: -30% 60% 60% 43%;
+    position: absolute;
+}
+
+.deve-class h2 {
+    color: white;
+}
+
+.deve-class h4 {
+    color: white;
+}
+
+.deve-class p {
+    color: rgba(241, 239, 239, 0.424);
+}
+
+.deve-class img {
+    width: 20%;
+    height: 20%;
+}
+
+.deve-class h2 {
+    margin: -15% 0% 0% 0%;
+}
+
+.content-wrapper img {
+    height: 76%;
+    width: 39.5%;
+}
+
+.text-wrapper {
+    width: 100%;
+    position: absolute;
+    margin-top: -40%;
+}
+
+.text-wrapper h1 {
+    text-align: center;
+    color: #ffffff;
+    font-size: 4vw;
+    font-family: georgia;
+    margin: 30% 65% 25% 2%;
+}
+
+.text-wrapper h6 {
+    margin: -24% 50% 15% 13.5%;
+    color: rgba(52, 167, 106, 0.664);
+    font-size: 2vw;
+    font-weight: 100;
+    font-family: cursive;
+}
+
+.class-data {
+    width: 10%;
+    height: 10%;
+    margin: -14% 60% -60% 43%;
+    display: flexbox;
+}
+
+.class-data h4 {
+    color: white;
+}
+
+.class-data p {
+    color: rgba(241, 239, 239, 0.424);
+}
+
+.optimization-class {
+    width: 13%;
+    margin: 32% 30% 80% 70%;
+    position: relative;
+    display: flexbox;
+}
+
+.optimization-class h4 {
+    color: white;
+}
+
+.optimization-class p {
+    color: rgba(241, 239, 239, 0.424);
+}
+
+.optimization-class img {
+    height: 25%;
+    width: 25%;
+}
+
+.data {
+    width: 15%;
+    margin: -80% 30% -80% 70%;
+    position: relative;
+    display: flexbox;
+}
+
+.data h4 {
+    color: white;
+}
+
+.data p {
+    color: rgba(241, 239, 239, 0.424);
+}
+
+.data img {
+    height: 25%;
+    width: 25%;
+}
+
+.fas {
+    padding: 5% 5% 10% 5%;
+    height: 50%;
+    width: 50%;
+    color: rgba(52, 167, 106, 0.664);
+}
+
+.fas {
+    padding: 5% 5% 10% 5%;
+    height: 50%;
+    width: 50%;
+    color: rgba(52, 167, 106, 0.664);
+}
+
+.fab {
+    padding: 5% 5% 10% 5%;
+    width: 20px;
+    color: rgba(52, 167, 106, 0.664);
+}
